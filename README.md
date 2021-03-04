@@ -1,4 +1,4 @@
-# Intelligient-Information-Retrieval
+# Intelligent-Information-Retrieval
 
 **Introduction and Motivation:**
 
